@@ -1,0 +1,17 @@
+¿Qué es un sistema de control de versiones?
+¿Qué es un repositorio?
+En el contexto de sistemas de control de versiones, definir con sus propias palabras
+los siguientes conceptos:
+o Árbol
+o Revisión
+o Reléase
+o Rama
+o Etiqueta
+o Versión
+o Commit
+o Update
+o Check out
+o Merge
+Diferencia entre trunk y branch
+¿Qué es y porque es necesaria la integración continúa?
+Hacer un diagrama donde se explique el proceso de integración continúa
