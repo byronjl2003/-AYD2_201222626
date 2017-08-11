@@ -1,0 +1,21 @@
+Es un sistema que tiene como finalidad la administración y control de los diversos cambios que sobre un proyecto en un repositorio.
+
+Es un sitio centralizado donde se almacenan todo lo que concierne a un proyecto.
+
+Conceptos de control de versiones:
+	Árbol: Es un conjunto de ramas o branches de un proyecto.
+	Revisión: Es cuando el item de configuracion sale a un ambiente de desarrollo o pruebas.
+	Release: Es cuando el ítem de configuración sale al publico. 
+	Rama: es una linea de código que se creó a partir de una línea padre o base.
+	Etiqueta: descripción de un item de configuración de la versión.
+	Versión: Es una instancia en el tiempo de un  proyecto software.
+	Commit: comando para actualizar los cambios localmente.
+	Update: comando para actualizar los cambios en el repositorio.
+	check out: Se realiza una copia local de una rama.
+	Merge: Es la fusión  de los cambios de de diferentes ramas o de cambios realizados en un mismo documento.
+
+Trunk es un rama con la diferencia que es la principal del proyecto, mientras que un branch en si es cualquier rama en el repositorio.
+
+La integración continua es importante para la automatización del procesos, generar más la productividad del equipo de trabajo así como tener la posibilidad de crear cambios y regresar a versiones anteriores si es necesario.
+
+
